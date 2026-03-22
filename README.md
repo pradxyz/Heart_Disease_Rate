@@ -17,7 +17,7 @@ Cleveland Heart Disease Dataset (via Kaggle)
 
 
 
- What I did
+ ## What I did
 
  1. Exploratory Data Analysis
 - Checked for missing values (none found)
@@ -33,7 +33,7 @@ Logistic Regression    73.3%
 Decision Tree          71.6% 
 Random Forest          73.3% 
 
-### 3. Feature Selection
+ 3. Feature Selection
 Applied SelectKBest with chi-squared test to identify the 8 most clinically significant features:
 
 sex, cp, restecg, exang, oldpeak, slope, ca, thal
@@ -51,12 +51,12 @@ Evaluated the best model (Random Forest) using:
 - Confusion Matrix
 - Classification Report (Precision, Recall, F1-Score)
 
-Final Results:
+## Final Results:
 - Accuracy: 81.6%
 - Precision: 0.84 (no disease), 0.79 (disease)
 - Recall: 0.81 (no disease), 0.82 (disease)
 
- Key Findings
+ ## Key Findings
 
 From Exploratory Data Analysis:
 - Patients without heart disease had noticeably higher maximum heart rate compared to those with disease — suggesting cardiovascular fitness plays a protective role
