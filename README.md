@@ -1,6 +1,6 @@
 # Heart Disease Risk Prediction
 
-This project explores whether machine learning can help predict the likelihood of heart disease in patients based on routine clinical measurements. I used the Cleveland Heart Disease dataset and compared multiple classification models to find the best performing approach.
+This project investigates whether machine learning models can accurately predict heart disease using structured clinical data. Using the Cleveland Heart Disease dataset, multiple classification algorithms were evaluated and compared, with a focus on identifying the most clinically relevant features influencing prediction.
 
 ## Why I built this
 
