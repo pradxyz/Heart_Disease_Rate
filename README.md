@@ -81,6 +81,12 @@ Evaluated the best model (Random Forest) using:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- 
+- ## Limitations
+
+- Small dataset size (303 samples)
+- Limited generalizability to diverse populations
+- No temporal or longitudinal data
 
 ## Future Work
 
